@@ -76,6 +76,6 @@ if (x<1){
         else y =x;
 
     else if (x <2) y = -x + 2;
-        else y = 0;
+    else y = 0;
 }
 ```
