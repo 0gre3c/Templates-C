@@ -16,4 +16,5 @@ switch (выражение)
 типа long, int или char.
 
 Отображение switch в схеме:
+
 ![ ](switch.png)
